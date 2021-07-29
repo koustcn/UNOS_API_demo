@@ -6,4 +6,4 @@ natsort
 pyqt
  
  
-For API details please regiser on developer.unos.org
+For API details please check on developer.unos.org
